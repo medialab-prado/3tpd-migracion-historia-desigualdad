@@ -1,6 +1,6 @@
 # Migración: una historia de desigualdad
 
-    ![](http://medialab-prado.es/mmedia/16/16692/500_0.jpg)
+![](http://medialab-prado.es/mmedia/16/16692/500_0.jpg)
 
 El análisis de los flujos migratorios nos desvela una historia de desigualdad, desde el origen hasta
 el destino con diferentes dimensiones de desigualdad y oportunidades laborales que constituyen los
